@@ -8,8 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [Bug#1](https://github.com/LexinFrom02/Ex1.1-T1/issues/1)
-* [Bug#2](https://github.com/LexinFrom02/Ex1.1-T1/issues/2)
-* [Bug#3](https://github.com/LexinFrom02/Ex1.1-T1/issues/3)
+* [Bug#2](https://github.com/LexinFrom02/Ex1.1-T1/issues/3)
 
 ---
 ## Описание процесса тестирования
